@@ -62,5 +62,5 @@ Industrial & Manufacturing Engineering
 
 NED University of Engineering & Technology
 
-Step 6: Add a Cover Image
+
 
