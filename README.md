@@ -54,9 +54,7 @@ Perform finite element analysis (FEA).
 Optimize the design for weight reduction.
 Conduct fatigue life analysis.
 Manufacture and experimentally validate the components.
-Author
 
-Murtaza Haider
 
 Industrial & Manufacturing Engineering
 
